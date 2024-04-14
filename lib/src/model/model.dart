@@ -1,3 +1,4 @@
+export 'openai_chat/openai_chat.dart';
 export 'openai_completions/openai_completions.dart';
 export 'openai_edits/openai_edits.dart';
 export 'openai_embeddings/openai_embeddings.dart';

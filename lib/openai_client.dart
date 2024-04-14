@@ -1,3 +1,4 @@
+/// Client for OpenAI
 library openai_client;
 
 export 'src/client.dart';
